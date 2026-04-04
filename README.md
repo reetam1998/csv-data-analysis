@@ -25,6 +25,7 @@ Analyze business sales data to generate actionable insights.
 - Compared regional performance
 
 ## Tools
+
 - Python
 - Pandas
 - Matplotlib
@@ -32,3 +33,8 @@ Analyze business sales data to generate actionable insights.
 
 - TV adds contribute most to sales
 - increasing TV budget increases revenue significantly
+
+Customers with monthly contract churn more
+High support calls → high churn
+Low tenure → risky customers
+I can build churn prediction models to identify customers likely to leave and help businesses improve retention
