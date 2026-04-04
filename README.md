@@ -29,3 +29,6 @@ Analyze business sales data to generate actionable insights.
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+
+- TV adds contribute most to sales
+- increasing TV budget increases revenue significantly
