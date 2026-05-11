@@ -1,0 +1,9 @@
+Player,Opponent,PlayerScore,OpponentScore,Tournament,Result
+Reetam,Aman,11,10,state,win
+Reetam,Vivek,26,27,state,loss
+Reetam,jay,4,5,open,loss
+Reetam,raj,5,6,open,loss
+Reetam,lo,6,5,Inter-IIT,win
+Reetam,po,7,8,Inter-IIT,loss
+Reetam,so,12,11,National,win
+Reetam,jo,13,18,National,loss
